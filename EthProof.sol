@@ -28,7 +28,7 @@ contract MyToken {
     // mint function
     function mint(address _address, uint _value) public{
         totalSupply+=_value;
-        acBalance[_address]= _value;
+        acBalance[_address]+= _value;
     }
 
     // burn function
