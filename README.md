@@ -1,26 +1,29 @@
-Project Title
-Simple overview of use/purpose.
+# Project Title
+Metacrafters assessment of Eth-Proof course
 
-Description
-An in-depth paragraph about your project and overview of use.
+## Description
+This is the assessment of a course called Eth-Proof provided to us by Metacrafters which is a multichain learn and earn platform. In this course, we learned about different blockchain concepts and started our journey in field of blockchain by laying the foundation in solidity. 
 
-Getting Started
-Installing
-How/where to download your program
-Any modifications needed to be made to files/folders
-Executing program
-How to run the program
-Step-by-step bullets
-code blocks for commands
-Help
-Any advise for common problems or issues.
+## Getting Started
+### Installing
+      * Open remix.ethereum.org (a online code editor for solidity by ethereum)
+      * Open EthProof.sol given in this repository.
+      * Copy the code
+      * Now, set up is complete and you are good to go.
+      
+### Executing Program
+      After set up
+      * Compile the program by using solidity compiler given in the sidebar (or you can use CTRL + S).
+      * In the sidebar, if you get green check mark, this means your program executed successfully.
+      * Deploy the program
+      * Run and execute all the function/method which is present in the contract
 
-command to run if program contains helper info
-Authors
-Contributors names and contact info
+## Help
+      * You can use CTRL + S to compile
 
-ex. Dominique Pizzie
-ex. @DomPizzie
+## Authors
+Alok raturi
 
-License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+## License
+This project is licensed under the Alok Raturi License.
+      
